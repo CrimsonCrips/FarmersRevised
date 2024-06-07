@@ -5,6 +5,7 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "FarmersRevised.refmap.json",
   "mixins": [
+    "PigMixin"
   ],
   "client": [
   ],

@@ -1,0 +1,36 @@
+{
+  "values": [
+    "minecraft:fern",
+    "minecraft:large_fern",
+    "#minecraft:tall_flowers",
+    "#minecraft:small_flowers",
+    "#farmersdelight:wild_crops",
+    "biomesoplenty:sprout",
+    "biomesoplenty:high_grass",
+    "biomesoplenty:clover",
+    "biomesoplenty:clover",
+    "biomesoplenty:bramble_leaves",
+    "biomesoplenty:dune_grass",
+    "biomesoplenty:lavender",
+    "biomesoplenty:tall_lavender",
+    "regions_unexplored:daisy",
+    "regions_unexplored:fireweed",
+    "regions_unexplored:hyssop",
+    "regions_unexplored:ashen_grass",
+    "regions_unexplored:bladed_grass",
+    "regions_unexplored:dead_steppe_shrub",
+    "regions_unexplored:frozen_grass",
+    "regions_unexplored:medium_grass",
+    "regions_unexplored:sandy_grass",
+    "regions_unexplored:small_desert_shrub",
+    "regions_unexplored:steppe_grass",
+    "regions_unexplored:steppe_shrub",
+    "regions_unexplored:bladed_tall_grass",
+    "regions_unexplored:elephant_ear",
+    "regions_unexplored:steppe_tall_grass",
+    "regions_unexplored:windswept_grass",
+    "regions_unexplored:clover",
+    "born_in_chaos_v1:river_mint"
+
+  ]
+}
