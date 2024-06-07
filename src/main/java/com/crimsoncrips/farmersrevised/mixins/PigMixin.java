@@ -17,10 +17,6 @@ import org.spongepowered.asm.mixin.injection.ModifyVariable;
 
 public class PigMixin {
 
-    @ModifyVariable(method = "<clinit>", at = @At(value = "STORE"), ordinal = 0)
-    private static Ingredient injectMyIngredient(Ingredient original) {
-        return Ingredient.of(Items.CARROT, Items.POTATO, Items.BEETROOT);
-    }
 
 
 
